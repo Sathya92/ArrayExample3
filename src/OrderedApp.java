@@ -1,5 +1,5 @@
 /*
-MERGE SORT
+MERGE SORT - Programming Proect 2.5 Robert Lafore - Data Structures and Algorithms in Java
 */
 
 
